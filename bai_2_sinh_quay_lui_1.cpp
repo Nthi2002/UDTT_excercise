@@ -41,7 +41,6 @@ void Try(int i) {
 
 
 int main() {
-
 	ok = 1;
 	cout << "sinh" << endl;
 	
